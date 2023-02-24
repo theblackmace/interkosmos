@@ -30,7 +30,7 @@ body {
 }
 
 #hero{
-    background-image: url("/SpaceExplorationSite/images/galaxy.webp");
+    background-image: url("/SpaceExplorationSite/images/universe.jpg");
     background-size: cover;
     padding: 10px 0 400px 0;
 }
